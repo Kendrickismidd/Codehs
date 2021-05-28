@@ -1,0 +1,5 @@
+print("L")
+print("a")
+print("n")
+print("c")
+print("e")
